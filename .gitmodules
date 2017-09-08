@@ -1,0 +1,4 @@
+[submodule "cmake/cmake-pandocology"]
+	path = cmake/cmake-pandocology
+	url = https://github.com/compor/cmake-pandocology.git
+	branch = master
